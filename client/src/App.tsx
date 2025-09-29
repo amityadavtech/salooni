@@ -7,6 +7,7 @@ import NavBar from "@/components/NavBar";
 import Footer from "@/components/Footer";
 import HomePage from "@/pages/HomePage";
 import AboutPage from "@/pages/AboutPage";
+import ServicesPage from "@/pages/ServicesPage";
 import ContactPage from "@/pages/ContactPage";
 import GalleryPage from "@/pages/GalleryPage";
 import NotFound from "@/pages/not-found";
@@ -16,6 +17,7 @@ function Router() {
     <Switch>
       <Route path="/" component={HomePage} />
       <Route path="/about" component={AboutPage} />
+      <Route path="/services" component={ServicesPage} />
       <Route path="/contact" component={ContactPage} />
       <Route path="/gallery" component={GalleryPage} />
       {/* Fallback to 404 */}
