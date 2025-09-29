@@ -52,7 +52,7 @@ export default function Footer() {
           >
             <Link href="/">
               <h2 className="text-2xl font-serif font-bold text-primary">
-                Luxe Academy
+                Summera Salon & Accademy
               </h2>
             </Link>
             <p className="text-muted-foreground leading-relaxed">
@@ -67,7 +67,7 @@ export default function Footer() {
               </div>
               <div className="flex items-center gap-2 text-sm">
                 <Mail className="w-4 h-4 text-primary" />
-                <span>info@luxeacademy.com</span>
+                <span>info@summerasalon.com</span>
               </div>
               <div className="flex items-center gap-2 text-sm">
                 <MapPin className="w-4 h-4 text-primary" />
@@ -176,7 +176,7 @@ export default function Footer() {
           className="flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-muted-foreground"
         >
           <div className="flex items-center gap-1">
-            <span>© 2024 Luxe Academy. Made with</span>
+            <span>© 2024 Summera Salon & Accademy. Made with</span>
             <Heart className="w-4 h-4 text-primary fill-primary" />
             <span>for beauty enthusiasts.</span>
           </div>

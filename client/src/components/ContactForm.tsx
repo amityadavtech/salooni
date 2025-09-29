@@ -26,7 +26,7 @@ const contactInfo = [
   {
     icon: Mail,
     title: "Email",
-    details: "info@luxeacademy.com",
+  details: "info@summerasalon.com",
     subtitle: "Send us a message"
   },
   {

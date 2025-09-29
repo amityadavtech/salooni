@@ -75,7 +75,7 @@ const testimonials = [
   {
     name: "Emily Chen",
     role: "Marketing Executive",
-    content: "The transformation at Luxe Academy was incredible! The stylists are true artists and the atmosphere is so luxurious. I always leave feeling like a new person.",
+  content: "The transformation at Summera Salon & Accademy was incredible! The stylists are true artists and the atmosphere is so luxurious. I always leave feeling like a new person.",
     rating: 5,
     type: "salon" as const,
   },

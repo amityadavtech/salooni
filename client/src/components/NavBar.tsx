@@ -50,7 +50,7 @@ export default function NavBar() {
               className="text-2xl font-serif font-bold text-primary hover-elevate p-2 rounded-lg"
               whileHover={{ scale: 1.05 }}
             >
-              Luxe Academy
+              Summera Salon & Accademy
             </motion.h1>
           </Link>
 

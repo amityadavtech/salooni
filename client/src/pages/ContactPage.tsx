@@ -231,7 +231,7 @@ export default function ContactPage() {
                       <h3 className="text-xl font-semibold mb-2">Contact Information</h3>
                       <div className="space-y-1 text-muted-foreground">
                         <p>Phone: (555) 123-4567</p>
-                        <p>Email: info@luxeacademy.com</p>
+                        <p>Email: info@summerasalon.com</p>
                         <p>Emergency: (555) 987-6543</p>
                       </div>
                     </div>

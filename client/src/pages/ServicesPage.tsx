@@ -104,7 +104,7 @@ const services = {
   ],
   "premium-packages": [
     {
-      title: "The Luxe Experience",
+  title: "The Summera Salon & Accademy Experience",
       description: "Our signature premium package including consultation, cut, color, treatment, and styling with complimentary refreshments.",
       price: "350",
       duration: "4 hrs",

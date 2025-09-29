@@ -6,7 +6,7 @@ export default function TestimonialCardExample() {
       <TestimonialCard
         name="Emily Chen"
         role="Marketing Executive"
-        content="The transformation at Luxe Academy was incredible! The stylists are true artists and the atmosphere is so luxurious. I always leave feeling like a new person. The attention to detail and personalized service is unmatched."
+  content="The transformation at Summera Salon & Accademy was incredible! The stylists are true artists and the atmosphere is so luxurious. I always leave feeling like a new person. The attention to detail and personalized service is unmatched."
         rating={5}
         type="salon"
       />

@@ -50,7 +50,7 @@ const values = [
 ];
 
 const milestones = [
-  { year: "2009", event: "Luxe Academy Founded", description: "Started with a small salon and big dreams" },
+  { year: "2009", event: "Summera Salon & Accademy Founded", description: "Started with a small salon and big dreams" },
   { year: "2012", event: "Academy Launch", description: "Opened our professional training program" },
   { year: "2016", event: "Award Recognition", description: "Named 'Best Salon' by City Beauty Awards" },
   { year: "2020", event: "Digital Expansion", description: "Launched online courses and virtual consultations" },
@@ -73,7 +73,7 @@ export default function AboutPage() {
                 Our Story
               </h1>
               <p className="text-xl text-muted-foreground leading-relaxed mb-8">
-                Founded in 2009, Luxe Academy began as a vision to create a space where beauty meets artistry. 
+                Founded in 2009, Summera Salon & Accademy began as a vision to create a space where beauty meets artistry. 
                 What started as a small salon has grown into a premier destination for both luxury services and 
                 professional education.
               </p>
@@ -91,7 +91,7 @@ export default function AboutPage() {
             >
               <img
                 src={salonImage}
-                alt="Luxe Academy Interior"
+                alt="Summera Salon & Accademy Interior"
                 className="w-full h-96 object-cover rounded-lg shadow-xl"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent rounded-lg" />
