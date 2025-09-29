@@ -10,10 +10,11 @@ const __dirname = path.dirname(__filename);
 export default defineConfig({
   plugins: [react()],
   resolve: {
-    alias: {
-      "@": path.resolve(__dirname, "client", "src"),
-    },
-  },
+  alias: {
+    "@": path.resolve(__dirname, "client", "src"),
+    "@assets": path.resolve(__dirname, "client", "src", "assets")
+  }
+},
   root: path.resolve(__dirname, "client"),
   build: {
     outDir: path.resolve(__dirname, "dist"),
