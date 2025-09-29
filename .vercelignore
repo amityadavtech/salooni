@@ -1,0 +1,4 @@
+# Vercel Ignore Build Step
+# Prevent Vercel from building if nothing has changed in these folders
+client/
+server/
