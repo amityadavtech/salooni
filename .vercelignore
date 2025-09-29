@@ -1,4 +1,2 @@
 # Vercel Ignore Build Step
-# Prevent Vercel from building if nothing has changed in these folders
-client/
-server/
+# (leave empty or only ignore files/folders you do NOT want to deploy)
