@@ -279,7 +279,7 @@ export default function ServicesPage() {
                               className="group"
                             >
                               <Card className="overflow-hidden bg-card/50 backdrop-blur-sm border-card-border hover-elevate h-full">
-                                {service.isPopular && (
+                                {'isPopular' in service && service.isPopular && (
                                   <div className="absolute top-4 left-4 z-10">
                                     <Badge className="bg-primary text-primary-foreground">
                                       Most Popular
